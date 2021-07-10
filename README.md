@@ -1,2 +1,1 @@
-# ATS
-Automated Trading System
+# Automated Trading System
